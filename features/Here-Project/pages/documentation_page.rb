@@ -10,10 +10,7 @@ class UtilityPage
 
   def navigate_internal_links(page_section, global_api_type)
     @browser.radio(:text, 'China specific APIs and SDKs').set?  ?  @pg_section = @browser.divs(:id, "#{page_section}")[1] : @pg_section = @browser.div(:id, "#{page_section}")
-    #
-    # else
-    #   @pg_section = @browser.div(:id, "#{page_section}")
-    # end
+  
     case global_api_type
       when 'INTERACTIVE MAPS'
         @api_link = @pg_section.div(:id, 'maps')
