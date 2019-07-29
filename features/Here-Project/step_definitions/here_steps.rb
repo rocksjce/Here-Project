@@ -3,35 +3,34 @@ Given(/^navigate to site$/) do
   @documentpage.visit
 end
 
-When(/^navigate to internal links for Global APIs and SDKs (.*), (.*)$/) do |page_section, global_api_type|
-  @documentpage.navigate_internal_links(page_section,global_api_type)
+
+When(/^navigate\|verify and check for Angular initialization for internal links of "([^"]*)" and "([^"]*)"$/) do |arg1, arg2|
+  logger.info "Navigate to internal links of #{arg1}"
+  @angular_initialize, @response_code, @response_fail_link = @documentpage.navigate_link(arg1)
+  logger.info "Navigate to internal links of #{arg2}"
+  @angular_initialize, @response_code, @response_fail_link = @documentpage.navigate_link(arg2)
 end
 
-And(/^the page should load properly and return success status (.*)$/) do |status_code|
-  response_code = @documentpage.page_status(@browser.url)
-  expect(response_code).to include code: status_code
-  logger.info "Page loaded successfully with status code #{status_code}"
-end
-
-When(/^navigate to internal links for China specific APIs and SDKs (.*), (.*)$/) do |page_section, global_api_type|
-  @documentpage.select_radio_btn_china_api
-  @documentpage.navigate_internal_links(page_section,global_api_type)
-end
-
-And(/^check angular is initialized when page loads$/) do
-  angular_initialize = @documentpage.check_angular_initialized?
-  expect(angular_initialize).to be true
-  logger.info "Angular Initialization when page loads is #{angular_initialize}"
-end
-
-Then(/^verify success status of internal links and Angular initialization when page loads (.*), (.*), (.*)$/) do |global_api_type, link, status_code|
-  links = link.split(",")
-  links.each do |link_name|
-    logger.info "Navigating to #{link_name.upcase} signal of global API type #{global_api_type}"
-    angular_initialize, response_code = @documentpage.check_page_status(link_name)
-    expect(angular_initialize).to be true
-    logger.info "Angular Initialization when page loads is #{angular_initialize}"
-    expect(response_code).to include code: status_code
-    logger.info "#{link_name.upcase} link status is #{status_code}"
+Then(/^verify success status of internal links and Angular initialization when page loads$/) do
+  expect(@angular_initialize).to eq(0)
+  logger.info "Angular Initialization for API's when page loads are successful"
+  expect(@response_code).to eq(0)
+  logger.info "link status for API is success"
+  expect(@response_fail_link.nil?).to be true
+  if @response_fail_link.nil? == false
+    @response_fail_link.each {|link_path| puts "Failed link path are #{link_path}"}
   end
 end
+
+And(/^the page should load properly and return success status$/) do
+  pg_status = @documentpage.check_pg_status
+  expect(pg_status).to include(code: '200')
+  logger.info "Page loaded successfully"
+end
+
+Then(/^check angular is initialized when page loads$/) do
+  ang_ini = @documentpage.check_angular_initialized
+  expect(ang_ini).to be true
+  logger.info "Angular is initialized when page loads"
+end
+

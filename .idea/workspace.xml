@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b5d06f3f-93d4-4466-941c-2e41302c91c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/Here-Project/pages/documentation_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/Here-Project/pages/documentation_page.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/support/env.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/env.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/features_report.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,44 +16,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs Coverage Results" MODIFIED="1563711175874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__1_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (1) Coverage Results" MODIFIED="1563716596943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully Coverage Results" MODIFIED="1563730164840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs Coverage Results" MODIFIED="1564119235314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__1_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (1) Coverage Results" MODIFIED="1564381859596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully Coverage Results" MODIFIED="1564384225543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_MAPS_INTERACTIVE_MAPS__2_.rcov" NAME="Scenario: Validate the internal links for MAPS-INTERACTIVE MAPS (2) Coverage Results" MODIFIED="1563613265359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__4_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (4) Coverage Results" MODIFIED="1563733946833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__4_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (4) Coverage Results" MODIFIED="1564384696521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_MAPS_INTERACTIVE_MAPS.rcov" NAME="Scenario: Validate the internal links for MAPS-INTERACTIVE MAPS Coverage Results" MODIFIED="1563608505489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__2_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (2) Coverage Results" MODIFIED="1563711477666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__2_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (2) Coverage Results" MODIFIED="1564120603943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_properly_or_not.rcov" NAME="Scenario: Validate whether documentation page is loaded properly or not Coverage Results" MODIFIED="1563425664192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__5_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (5) Coverage Results" MODIFIED="1563689815080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__5_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (5) Coverage Results" MODIFIED="1564119117960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_properly_or_not__4_.rcov" NAME="Scenario: Validate whether documentation page is loaded properly or not (4) Coverage Results" MODIFIED="1563417242801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__4_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (4) Coverage Results" MODIFIED="1563719517115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__2_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (2) Coverage Results" MODIFIED="1563732839137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__3_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (3) Coverage Results" MODIFIED="1563717690381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__4_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (4) Coverage Results" MODIFIED="1564376434665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__2_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (2) Coverage Results" MODIFIED="1564384332829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__3_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (3) Coverage Results" MODIFIED="1564375301321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_properly_or_not__2_.rcov" NAME="Scenario: Validate whether documentation page is loaded properly or not (2) Coverage Results" MODIFIED="1563446189813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__3_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (3) Coverage Results" MODIFIED="1563710354892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Here_Documentation_feature__1_.rcov" NAME="Here-Documentation.feature (1) Coverage Results" MODIFIED="1563764829705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__3_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (3) Coverage Results" MODIFIED="1564130570022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Here_Documentation_feature__1_.rcov" NAME="Here-Documentation.feature (1) Coverage Results" MODIFIED="1563984106259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__5_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (5) Coverage Results" MODIFIED="1564384823658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_MAPS_INTERACTIVE_MAPS__3_.rcov" NAME="Scenario: Validate the internal links for MAPS-INTERACTIVE MAPS (3) Coverage Results" MODIFIED="1563613387720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_properly_or_not__3_.rcov" NAME="Scenario: Validate whether documentation page is loaded properly or not (3) Coverage Results" MODIFIED="1563446682874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@utility.rcov" NAME="utility Coverage Results" MODIFIED="1563608413760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs Coverage Results" MODIFIED="1563762890765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__3_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (3) Coverage Results" MODIFIED="1563732992444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs Coverage Results" MODIFIED="1564377512344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__3_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (3) Coverage Results" MODIFIED="1564384640174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_MAPS_INTERACTIVE_MAPS__5_.rcov" NAME="Scenario: Validate the internal links for MAPS-INTERACTIVE MAPS (5) Coverage Results" MODIFIED="1563614374411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Here_Documentation_feature.rcov" NAME="Here-Documentation.feature Coverage Results" MODIFIED="1563732438401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__1_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (1) Coverage Results" MODIFIED="1563711303658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Here_Documentation_feature.rcov" NAME="Here-Documentation.feature Coverage Results" MODIFIED="1564297923929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__1_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (1) Coverage Results" MODIFIED="1564119624605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_MAPS_INTERACTIVE_MAPS__1_.rcov" NAME="Scenario: Validate the internal links for MAPS-INTERACTIVE MAPS (1) Coverage Results" MODIFIED="1563613176979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__1_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (1) Coverage Results" MODIFIED="1563732557829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__4_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (4) Coverage Results" MODIFIED="1563710562544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_successfully__1_.rcov" NAME="Scenario: Validate whether documentation page is loaded successfully (1) Coverage Results" MODIFIED="1564384291449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_China_specific_APIs_and_SDKs__4_.rcov" NAME="Scenario: Validate the internal links for China specific APIs and SDKs (4) Coverage Results" MODIFIED="1564118915214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_whether_documentation_page_is_loaded_properly_or_not__1_.rcov" NAME="Scenario: Validate whether documentation page is loaded properly or not (1) Coverage Results" MODIFIED="1563439279232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
     <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_MAPS_INTERACTIVE_MAPS__4_.rcov" NAME="Scenario: Validate the internal links for MAPS-INTERACTIVE MAPS (4) Coverage Results" MODIFIED="1563613551190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
-    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__2_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (2) Coverage Results" MODIFIED="1563716752106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__5_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (5) Coverage Results" MODIFIED="1564340070925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
+    <SUITE FILE_PATH="coverage/here_project@Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs__2_.rcov" NAME="Scenario: Validate the internal links for Global APIs and SDKs (2) Coverage Results" MODIFIED="1564371308443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="here-project" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -57,17 +63,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="479">
+              <caret line="33" column="54" lean-forward="true" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/Here-Project/pages/documentation_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="748">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumber.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="67" selection-start-column="67" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -76,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/README.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="341">
+              <first_editor relative-caret-position="459">
                 <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               </first_editor>
               <second_editor />
@@ -103,23 +136,24 @@
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="C:/Ruby22/lib/ruby/gems/2.2.0/gems/logger-1.3.0/lib/logger.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
         <option value="$PROJECT_DIR$/features/Here-Project/feature/step_definitions/here_steps.rb.rb" />
-        <option value="$PROJECT_DIR$/features/support/env.rb" />
         <option value="$PROJECT_DIR$/lib/pages/utility.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/here_steps.rb.rb" />
         <option value="$PROJECT_DIR$/features/Here-Project/pages/utility.rb" />
         <option value="$PROJECT_DIR$/README.markdown" />
+        <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
         <option value="$PROJECT_DIR$/features/Here-Project/pages/documentation_page.rb" />
+        <option value="$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="2064" />
+    <option name="height" value="1128" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -170,6 +204,12 @@
               <item name="Here-Project" type="462c0819:PsiDirectoryNode" />
               <item name="step_definitions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="here-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="here-project" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,11 +219,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/step_definitions" />
+    <property name="last_opened_file_path" value="C:/UserData/z003yywr/Documents/My Received Files/wps3_api_driver-master" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -211,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber.Here-Documentation.feature (1)">
-    <configuration name="Here-Documentation.feature (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Scenario: Validate whether documentation page is loaded successfully (5)">
+    <configuration name="Scenario: Validate whether documentation page is loaded successfully (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="here-project" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -231,39 +271,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Scenario: Validate the internal links for Global APIs and SDKs" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <module name="here-project" />
-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Validate the internal links for Global APIs and SDKs$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Validate whether documentation page is loaded successfully$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -293,7 +301,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="D:\New folder\here-project\features\Here-Project\feature\Here-Documentation.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Validate whether documentation page is loaded successfully$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -325,7 +333,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="D:\New folder\here-project\features\Here-Project\feature\Here-Documentation.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Validate whether documentation page is loaded successfully$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -341,6 +349,38 @@
       <method v="2" />
     </configuration>
     <configuration name="Scenario: Validate whether documentation page is loaded successfully (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="here-project" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Here-Project/feature/Here-Documentation.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Validate whether documentation page is loaded successfully$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: Validate whether documentation page is loaded successfully (5)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <module name="here-project" />
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -388,11 +428,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber.Here-Documentation.feature (1)" />
-        <item itemvalue="Cucumber.Scenario: Validate the internal links for Global APIs and SDKs" />
+        <item itemvalue="Cucumber.Scenario: Validate whether documentation page is loaded successfully (5)" />
         <item itemvalue="Cucumber.Scenario: Validate whether documentation page is loaded successfully (4)" />
         <item itemvalue="Cucumber.Scenario: Validate whether documentation page is loaded successfully (3)" />
         <item itemvalue="Cucumber.Scenario: Validate whether documentation page is loaded successfully (2)" />
+        <item itemvalue="Cucumber.Scenario: Validate whether documentation page is loaded successfully (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -417,89 +457,91 @@
       <workItem from="1563763200531" duration="810000" />
       <workItem from="1563764727737" duration="1238000" />
       <workItem from="1563875790284" duration="3000" />
-      <workItem from="1563975183451" duration="723000" />
+      <workItem from="1563975183451" duration="5432000" />
+      <workItem from="1564029639329" duration="67864000" />
+      <workItem from="1564230980476" duration="72620000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(4) - 2019.07.21 at 22h 57m 51s.xml">
-      <configuration name="Scenario: Validate whether documentation page is loaded successfully (4)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs_(3) - 2019.07.29 at 10h 12m 07s.xml">
+      <configuration name="Scenario: Validate the internal links for Global APIs and SDKs (3)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(3) - 2019.07.21 at 22h 57m 51s.xml">
-      <configuration name="Scenario: Validate whether documentation page is loaded successfully (3)" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs_(4) - 2019.07.29 at 10h 43m 20s.xml">
+      <configuration name="Scenario: Validate the internal links for Global APIs and SDKs (4)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully - 2019.07.21 at 23h 00m 38s.xml">
+    <history-entry file="Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs - 2019.07.29 at 11h 12m 10s.xml">
+      <configuration name="Scenario: Validate the internal links for Global APIs and SDKs" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs_(1) - 2019.07.29 at 11h 49m 24s.xml">
+      <configuration name="Scenario: Validate the internal links for Global APIs and SDKs (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Validate_the_internal_links_for_Global_APIs_and_SDKs_(1) - 2019.07.29 at 12h 26m 52s.xml">
+      <configuration name="Scenario: Validate the internal links for Global APIs and SDKs (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully - 2019.07.29 at 12h 40m 47s.xml">
       <configuration name="Scenario: Validate whether documentation page is loaded successfully" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Here-Documentation_feature - 2019.07.21 at 23h 37m 27s.xml">
-      <configuration name="Here-Documentation.feature" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(1) - 2019.07.21 at 23h 39m 26s.xml">
+    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(1) - 2019.07.29 at 12h 41m 45s.xml">
       <configuration name="Scenario: Validate whether documentation page is loaded successfully (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(2) - 2019.07.21 at 23h 44m 07s.xml">
+    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(2) - 2019.07.29 at 12h 42m 27s.xml">
       <configuration name="Scenario: Validate whether documentation page is loaded successfully (2)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(3) - 2019.07.21 at 23h 46m 45s.xml">
+    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(3) - 2019.07.29 at 12h 47m 37s.xml">
       <configuration name="Scenario: Validate whether documentation page is loaded successfully (3)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(4) - 2019.07.22 at 00h 02m 48s.xml">
+    <history-entry file="Scenario__Validate_whether_documentation_page_is_loaded_successfully_(4) - 2019.07.29 at 12h 48m 32s.xml">
       <configuration name="Scenario: Validate whether documentation page is loaded successfully (4)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Here-Documentation_feature_(1) - 2019.07.22 at 08h 02m 43s.xml">
-      <configuration name="Here-Documentation.feature (1)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Here-Documentation_feature_(1) - 2019.07.22 at 08h 38m 03s.xml">
-      <configuration name="Here-Documentation.feature (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115197000" />
+    <option name="totallyTimeSpent" value="260390000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26442954" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21207584" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.499501" weight="0.5140845" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.499501" weight="0.5139092" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50107294" side_tool="true" weight="0.61384976" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49892703" weight="0.26056337" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.40492958" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49892703" visible="true" weight="0.38477367" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.24382716" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Event Log" order="4" sideWeight="0.50107294" side_tool="true" weight="0.6134228" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26510066" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21208054" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.499501" weight="0.5140845" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.499501" weight="0.5139092" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50107294" side_tool="true" weight="0.61384976" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49892703" visible="true" weight="0.26056337" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.40492958" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49892703" weight="0.45241582" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4816984" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Event Log" order="4" sideWeight="0.50107294" side_tool="true" weight="0.6134228" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,13 +617,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
     <entry file="file://$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb.rb" />
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/selenium-webdriver-3.141.0/lib/selenium/webdriver/common/platform.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -589,10 +624,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+    <entry file="file://$PROJECT_DIR$/features/Here-Project/pages/utility.rb" />
+    <entry file="file://C:/Ruby22/lib/ruby/2.2.0/uri.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="-1636" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby22/lib/ruby/gems/2.2.0/gems/backports-3.15.0/lib/backports/2.5.0/kernel/yield_self.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -603,35 +644,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/Here-Project/pages/utility.rb" />
     <entry file="file://$PROJECT_DIR$/README.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="341">
+          <first_editor relative-caret-position="459">
             <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature">
+    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/Here-Project/pages/documentation_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Here-Project/step_definitions/here_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="33" column="54" lean-forward="true" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Here-Project/feature/Here-Documentation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>

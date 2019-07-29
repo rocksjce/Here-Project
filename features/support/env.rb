@@ -15,11 +15,13 @@ include Selenium
 iedriver_path = File.join(File.absolute_path('../..', File.dirname(__FILE__)),"exe","IEDriverServer.exe")
 Selenium::WebDriver::IE.driver_path = iedriver_path
 browser = Watir::Browser.new :ie
+browser.window.maximize
 #Browser - Chrome
 # chromedriver_path = File.join(File.absolute_path('../..', File.dirname(__FILE__)),"exe","chromedriver.exe")
 # Selenium::WebDriver::Chrome.driver_path = chromedriver_path
+# # chrome_options = webdriver.ChromeOptions()
 # browser = Watir::Browser.new :chrome
-browser.window.maximize
+# browser.window.maximize
 
 Before do
   @browser = browser
